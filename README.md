@@ -9,8 +9,8 @@ Scores are displayed in a large font for easy viewing
 Stylish design with custom fonts and colors
 # Technologies Used
 
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 # Future Development
 
