@@ -16,9 +16,7 @@ JavaScript
 
 In the future, I plan on adding the following features:
 
-Reset button to reset the scores to 0
-Timer to keep track of the game's duration
-Option to input custom team names
+Reset button to reset the scores to 0. Timer to keep track of the game's duration. Option to input custom team names
 # Conclusion
 
 Thank you for checking out my Score Keeper app! I hope you find it useful for keeping track of scores in your games. You can find a tutorial for this project on [Scrimba](https://scrimba.com/learn/learnjavascript). 
